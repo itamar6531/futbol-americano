@@ -1,7 +1,5 @@
 # Fútbol Americano — Sistema de Estadísticas con Java RMI
 
-Aplicación distribuida en Java que gestiona estadísticas de fútbol americano (yardas por tierra, yardas por pase e intercambios) mediante **Java RMI** (*Remote Method Invocation*). El servidor centraliza los datos y los clientes pueden consultarlos, actualizarlos y recibir notificaciones en tiempo real cuando otro cliente modifica un equipo.
-
 ## ¿De qué trata?
 
 El proyecto simula un servicio de estadísticas deportivas para equipos de fútbol americano. Cada equipo tiene tres métricas:
